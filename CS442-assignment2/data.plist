@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Categories</key>
+	<array>
+		<string>Time</string>
+		<string>Temperature</string>
+	</array>
+	<key>Temperature</key>
+	<dict>
+		<key>Kelvin</key>
+		<integer>1</integer>
+		<key>Celsius</key>
+		<array>
+			<integer>1</integer>
+			<real>273.15</real>
+		</array>
+		<key>Fahrenheit</key>
+		<array>
+			<real>0.5555555556</real>
+			<real>255.3722222222</real>
+		</array>
+	</dict>
+	<key>Time</key>
+	<dict>
+		<key>second</key>
+		<integer>1</integer>
+		<key>millisecond</key>
+		<real>0.001</real>
+		<key>minute</key>
+		<integer>60</integer>
+		<key>hour</key>
+		<integer>3600</integer>
+		<key>day</key>
+		<integer>86400</integer>
+	</dict>
+</dict>
+</plist>

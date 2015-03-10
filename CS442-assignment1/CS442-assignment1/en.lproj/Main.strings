@@ -1,0 +1,21 @@
+
+/* Class = "IBUIButton"; normalTitle = "Convert"; ObjectID = "LKP-Kp-heh"; */
+"LKP-Kp-heh.normalTitle" = "Convert";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "M0o-q9-N7A"; */
+"M0o-q9-N7A.text" = "Label";
+
+/* Class = "IBUISegmentedControl"; Ugj-oM-t0P.segmentTitles[0] = "Temperature"; ObjectID = "Ugj-oM-t0P"; */
+"Ugj-oM-t0P.segmentTitles[0]" = "Temperature";
+
+/* Class = "IBUISegmentedControl"; Ugj-oM-t0P.segmentTitles[1] = "Distance"; ObjectID = "Ugj-oM-t0P"; */
+"Ugj-oM-t0P.segmentTitles[1]" = "Distance";
+
+/* Class = "IBUISegmentedControl"; Ugj-oM-t0P.segmentTitles[2] = "Volume"; ObjectID = "Ugj-oM-t0P"; */
+"Ugj-oM-t0P.segmentTitles[2]" = "Volume";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "jav-Rf-Jzp"; */
+"jav-Rf-Jzp.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "⇟"; ObjectID = "ksK-Tk-fRQ"; */
+"ksK-Tk-fRQ.normalTitle" = "⇟";
